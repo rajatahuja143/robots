@@ -1,5 +1,5 @@
 {
-  "name": "library",
+  "name": "robot",
   "version": "0.0.1",
   "description": "Extractor library",
   "main": "index.js",
@@ -40,5 +40,9 @@
   },
   "dependencies": {
     "import-io": "^2.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC"
 }
